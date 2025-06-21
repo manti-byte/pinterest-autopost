@@ -1,2 +1,0 @@
-# pinterest-autopost
-Pinteres autoposting
